@@ -26,3 +26,9 @@ Built with **Next.js, TailwindCSS, shadcn/ui, Prisma, and PostgreSQL**, it deliv
 - **Visual Style:** Swiss-style grid, monochromatic palette, strong typography, and functional contrast accents only where necessary.  
 
 **Design inspirations:** Superhuman, Apple, Wise.  
+
+---
+
+# Members only
+
+[Important links](https://github.com/KicksInventory/miscellaneous)
