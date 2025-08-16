@@ -29,6 +29,10 @@ Built with **Next.js, TailwindCSS, shadcn/ui, Prisma, and PostgreSQL**, it deliv
 
 ---
 
+<div align="center">
+
 # Members only
 
-[Important links](https://github.com/KicksInventory/miscellaneous)
+### [Important links](https://github.com/KicksInventory/miscellaneous)
+
+</div>
