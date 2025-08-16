@@ -1,12 +1,28 @@
-## Hi there 👋
+# KicksInventory
 
-<!--
+<div align="center">
+<pre>
+▄ •▄ ▪   ▄▄· ▄ •▄ .▄▄ ·                      
+█▌▄▌▪██ ▐█ ▌▪█▌▄▌▪▐█ ▀.                      
+▐▀▀▄·▐█·██ ▄▄▐▀▀▄·▄▀▀▀█▄                     
+▐█.█▌▐█▌▐███▌▐█.█▌▐█▄▪▐█                     
+·▀  ▀▀▀▀·▀▀▀ ·▀  ▀ ▀▀▀▀                      
+▪   ▐ ▄  ▌ ▐·▄▄▄ . ▐ ▄ ▄▄▄▄▄      ▄▄▄   ▄· ▄▌
+██ •█▌▐█▪█·█▌▀▄.▀·•█▌▐█•██  ▪     ▀▄ █·▐█▪██▌
+▐█·▐█▐▐▌▐█▐█•▐▀▀▪▄▐█▐▐▌ ▐█.▪ ▄█▀▄ ▐▀▀▄ ▐█▌▐█▪
+▐█▌██▐█▌ ███ ▐█▄▄▌██▐█▌ ▐█▌·▐█▌.▐▌▐█•█▌ ▐█▀·.
+▀▀▀▀▀ █▪. ▀   ▀▀▀ ▀▀ █▪ ▀▀▀  ▀█▄▀▪.▀  ▀  ▀ • 
+</pre>
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+KicksInventory is a **Swiss-style, modern, and scalable platform** that combines a clean **e-commerce frontend** with a powerful **Inventory Management System (IMS)** backend.  
+Built with **Next.js, TailwindCSS, shadcn/ui, Prisma, and PostgreSQL**, it delivers speed, clarity, and efficiency.
+
+- **Frontend:** A minimal, accessible shopping experience designed with WCAG/ARIA standards.  
+- **Backend:** A multi-tenant IMS with search, filtering, status tracking, and export capabilities (PDF, CSV, Excel).  
+- **Design Principles:** Guided by Don Norman’s usability principles and Steve Krug’s “Don’t Make Me Think” philosophy.  
+- **Visual Style:** Swiss-style grid, monochromatic palette, strong typography, and functional contrast accents only where necessary.  
+
+**Design inspirations:** Superhuman, Apple, Wise.  
